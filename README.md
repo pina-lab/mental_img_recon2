@@ -26,7 +26,7 @@ In this study, we present a machine learning method for visualizing subjective i
 Naoko Koide-Majima, Shinji Nishimoto, and Kei Majima.<br>
 "Mental image reconstruction from human brain activity: <br>
 Neural decoding of mental imagery via deep neural network-based Bayesian estimation."<br>
-Neural Networks (2023).<br>
+Neural Networks (2024).<br>
 https://doi.org/10.1016/j.neunet.2023.11.024
 </li></ul>
 
