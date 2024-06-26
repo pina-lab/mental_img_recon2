@@ -1,7 +1,9 @@
 # Mental image reconstruction
 This is a gitHub repository for our recent work "Mental image reconstruction from human brain activity: Neural decoding of mental imagery via deep neural network-based Bayesian estimation."
--Project page on this work is [here](https://researchmap.jp/majima).
--Demo code on Google Colab is [here](https://researchmap.jp/majima). You can reproduce our results without any cumbersome installation.
+
+- Project page on this work is [here](https://researchmap.jp/majima).
+
+- Demo code on Google Colab is [here](https://researchmap.jp/majima). You can reproduce our results without any cumbersome installation.
 <p align="center">
 <img alt="mental_image_reconstruction__header" width="75%" src="https://github.com/nkmjm/mental_img_recon/assets/52347843/b4aa3cec-58f4-4d76-8a49-33dae8b4877b">
 </p>
